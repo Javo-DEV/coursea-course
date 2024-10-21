@@ -1,2 +1,2 @@
-# coursea-cours
-Repository for coursea HTMl cours
+# coursea-course
+Repository for coursea HTML course
